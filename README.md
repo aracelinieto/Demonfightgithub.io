@@ -26,10 +26,8 @@ Tamaño proyecto: 28,5MB
 Fecha : 28/05/2025
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter:
-Instagram:
-Tiktok:
+Github:https://github.com/aracelinieto/Demonfightgithub.io
+
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
