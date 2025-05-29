@@ -1,5 +1,5 @@
 # Demonfightgithub.io
-Este juego trata sobre un laberinto de personajes inspirados en el infierno y la estética de los 2000's.
+"Demon fight" es un videojuego inspirado en los dibujos animados de los 2000's en el contexto del infierno, en el cual tendrás que superar varios laberintos para ganar.
 # (Nombre del proyecto)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
